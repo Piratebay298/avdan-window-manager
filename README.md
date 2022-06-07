@@ -1,2 +1,2 @@
-# avdan-os-window-manager
-echo "NO DESCRIPTION"
+# AvdanOS Window Manager
+The AvdanOS Window Manager.
